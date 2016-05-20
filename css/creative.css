@@ -473,3 +473,12 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+#page-wrapper {
+    margin-top: 80px;
+}
+
+#selector_group {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
